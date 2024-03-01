@@ -1,0 +1,1300 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('./15e9c3a2af10b75624e7cc06bf844b9a.jpg');
+    background-size: 100% 600%; 
+    background-repeat: no-repeat;
+    background-color: whitesmoke;
+    overflow-x: hidden;
+}
+
+.menu {
+    width: 1270px;
+    height: 88px;
+    background-color: white;
+    margin-top: 40px;
+    margin-left: 125px;
+    border: none;
+    border-radius: 20px;
+}
+
+.logo h1 {
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 32px;
+    font-size: 20px;
+    font-family: "Mulish",sans-serif;
+    line-height: 22.4px;
+    font-weight: 800;
+}
+
+.nav {
+    position: absolute;
+    margin-left: 196px;
+    margin-top: 35px;
+}
+
+.a {
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Mulish", sans-serif;
+    text-decoration: none;
+    margin: 16px;
+    color: #14171F;
+}
+
+.in {
+    position: absolute;
+    margin-left: 840px;
+    margin-top: 24px;
+    width: 98px;
+    height: 48px;
+}
+
+.in1 {
+    font-size: 16px;
+    font-weight: 600;
+    font-family: "Mulish", sans-serif;
+}
+
+.in2 {
+    font-size: 16px;
+    font-weight: 600;
+    font-family: "Mulish", sans-serif;
+}
+
+.s {
+    color: #69C647;
+}
+
+.icons  { 
+    position: absolute;
+    margin-left: 997px;
+    margin-top: 28px;
+    width: 74px;
+    height: 32px;
+}
+
+.d, .e {
+    
+    cursor: pointer;
+}
+
+
+.is {
+    position: absolute;
+    margin-left: 1124px;
+    width: 133px;
+    height: 43px;
+    margin-top: 17px;
+}
+
+.font1 {
+    font-size: 12px;
+    font-family: "Mulish", sans-serif;
+    font-weight: 400;
+    line-height: 16.8px;
+    width: 106px;
+    height: 17px;
+    margin: 5px;
+    
+}
+
+.font2 {
+    position: absolute;
+    font-size: 16px;
+    font-family: "Muslish", sans-serif;
+    font-weight: 400;
+    line-height: 22.4px;
+    width: 153px;
+    height: 22px;
+    margin-left: -8px;
+}
+
+.text_center {
+    position: absolute;
+    margin-top: 94px;
+    margin-left: 120px;
+}
+
+.h1_1 {
+    font-size: 64px;
+    font-weight: 700;
+    font-family: "Mulish", sans-serif;
+    color: white;
+}
+
+.h2_2 {
+    color: white;
+    position: absolute;
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Mulish", sans-serif;
+}
+
+.btn3 {
+    cursor: pointer;
+    border: none;
+    color: white;
+    background-color: #69C647;
+    text-align: center;
+    line-height: 22.4px;
+    font-size: 15px;
+    font-family: "Mulish",sans-serif;
+    font-weight: 400;
+    position: absolute;
+    width: 237px;
+    height: 54px;
+    border-radius: 100px;
+    padding: 16px 24px 16px 24px;
+    margin-top: 120px;
+}
+
+.end_btn {
+    position: absolute;
+    margin-left: 1270px;
+    margin-top: 485px;
+}
+
+.btn1_1 {
+    background-color: white;
+    cursor: pointer;
+    margin-right: 28px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+}
+
+.btn1_1:hover {
+    border-color: #69C647;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.btn2_2 {
+    background-color: white;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+}
+
+.btn2_2:hover {
+    border-color: #69C647;
+    border-width: 2px;
+    border-style: solid;
+}
+
+
+.next_p {
+    position: absolute;
+    margin-top: 800px;
+    margin-left: 120px;  
+}
+
+.text_center1 ,.center1, .center2{
+    display: flex;
+}
+
+
+.onas {
+    position: absolute;
+    text-align: center;
+    width: 65px;
+    height: 29px;
+    border: none;
+    border-radius: 50px;
+    background-color: white;    
+}
+
+.h {
+    margin: 5px;
+    font-size: 12px;
+    font-family: "Mulish",sans-serif;
+    font-weight: 400;
+}
+
+.center1 {
+    margin-top: 45px;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 44px;
+    font-family: "Mulish", sans-serif;
+}
+
+.center2 {
+    position: absolute;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: "Mulish", sans-serif;
+    width: 588px;
+    height: 220px;
+    margin-top: 55px;
+    margin-left: 732px;
+}
+
+.nasha {
+    border: none;
+    border-radius: 50px;
+    text-align: center;
+    position: absolute;
+    margin-top: 280px;
+    width: 108px;
+    height: 29px;
+    background-color: white;
+}
+
+.stil {
+    margin: 5px;
+    font-size: 12px;
+    font-weight: 400;
+    font-family: "Mulish", sans-serif;
+}
+
+.text_center2 {
+    position: absolute;
+    margin-top: 325px;
+}
+
+.center3 {
+    width: 792px;
+    height: 132px;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: "Mulish",sans-serif;
+    line-height: 44px;    
+}
+
+.container1 {
+    cursor: pointer;
+    position: absolute;
+    margin-top: 1500px;
+    margin-left: 120px;
+    width: 384px;
+    height: 307px;
+    border-radius: 20px;
+    border: none;
+    background-color: white;
+}
+
+.container1:hover {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #69C647;
+}
+
+.container2:hover {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #69C647;
+}
+
+.container3:hover {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #69C647;
+}
+
+.container4:hover {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #69C647;
+}
+
+.container5:hover {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #69C647;
+}
+
+.container6:hover {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #69C647;
+}
+
+.container7:hover {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #69C647;
+}
+
+.container8:hover {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #69C647;
+}
+
+.container9:hover {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #69C647;
+}
+.im01 {
+    margin: 20px;
+    position: absolute;
+    width: 96px;
+    height: 96px;
+}
+
+.textm1 {
+    position: absolute;
+    font-size: 24px;
+    font-family: "Mulish", sans-serif;
+    font-weight: 700;
+    line-height: 36.4px;
+    margin-top: 249px;
+    margin-left: 24px;
+    width: 170px;
+    height: 34px;
+}
+
+.container2 {
+    cursor: pointer;
+    position: absolute;
+    margin-top: 1500px;
+    margin-left: 560px;
+    width: 384px;
+    height: 307px;
+    border-radius: 20px;
+    border: none;
+    background-color: white;
+}
+
+.im02 {
+    margin: 20px;
+    position: absolute;
+    width: 96px;
+    height: 96px;
+}
+
+.textm2 {
+    position: absolute;
+    font-size: 24px;
+    font-family: "Mulish", sans-serif;
+    font-weight: 700;
+    line-height: 36.4px;
+    margin-top: 249px;
+    margin-left: 24px;
+    width: 170px;
+    height: 34px;
+}
+
+.container3 {
+    cursor: pointer;
+    position: absolute;
+    margin-top: 1500px;
+    margin-left: 1000px;
+    width: 384px;
+    height: 307px;
+    border-radius: 20px;
+    border: none;
+    background-color: white;
+}
+
+.im03 {
+    margin: 20px;
+    position: absolute;
+    width: 96px;
+    height: 96px;
+}
+
+.textm3 {
+    position: absolute;
+    font-size: 24px;
+    font-family: "Mulish", sans-serif;
+    font-weight: 700;
+    line-height: 36.4px;
+    margin-top: 249px;
+    margin-left: 24px;
+    width: 226px;
+    height: 34px;
+}
+
+.container4 {
+    cursor: pointer;
+    position: absolute;
+    margin-top: 2200px;
+    margin-left: 120px;
+    width: 384px;
+    height: 307px;
+    border-radius: 20px;
+    border: none;
+    background-color: white;   
+}
+
+.im04 {
+    margin: 20px;
+    position: absolute;
+    width: 96px;
+    height: 96px;
+}
+
+.textm4 {
+    position: absolute;
+    font-size: 24px;
+    font-family: "Mulish", sans-serif;
+    font-weight: 700;
+    line-height: 36.4px;
+    margin-top: 215px;
+    margin-left: 24px;
+    width: 336px;
+    height: 64px;
+}
+
+.container5 {
+    cursor: pointer;
+    position: absolute;
+    margin-top: 1850px;
+    margin-left: 120px;
+    width: 384px;
+    height: 307px;
+    border-radius: 20px;
+    border: none;
+    background-color: white;    
+}
+
+.im05 {
+    margin: 20px;
+    position: absolute;
+    width: 96px;
+    height: 96px;
+}
+
+.textm5 {
+    position: absolute;
+    font-size: 24px;
+    font-family: "Mulish", sans-serif;
+    font-weight: 700;
+    line-height: 36.4px;
+    margin-top: 210px;
+    margin-left: 24px;
+    width: 246px;
+    height: 34px;
+}
+
+.container6 {
+    cursor: pointer;
+    position: absolute;
+    margin-top: 2200px;
+    margin-left: 560px;
+    width: 384px;
+    height: 307px;
+    border-radius: 20px;
+    border: none;
+    background-color: white;        
+}
+
+.im06 {
+    margin: 20px;
+    position: absolute;
+    width: 96px;
+    height: 96px;
+}
+
+.textm6 {
+    position: absolute;
+    font-size: 24px;
+    font-family: "Mulish", sans-serif;
+    font-weight: 700;
+    line-height: 36.4px;
+    margin-top: 249px;
+    margin-left: 24px;
+    width: 297px;
+    height: 34px;
+}
+
+.container7 {
+    cursor: pointer;
+    position: absolute;
+    margin-top: 1850px;
+    margin-left: 1000px;
+    width: 384px;
+    height: 307px;
+    border-radius: 20px;
+    border: none;
+    background-color: white;        
+}
+
+.im07 {
+    margin: 20px;
+    position: absolute;
+    width: 96px;
+    height: 96px;
+}
+
+.textm7 {
+    position: absolute;
+    font-size: 24px;
+    font-family: "Mulish", sans-serif;
+    font-weight: 700;
+    line-height: 36.4px;
+    margin-top: 249px;
+    margin-left: 24px;
+    width: 311px;
+    height: 34px;
+}
+
+.container8 {
+    cursor: pointer;
+    position: absolute;
+    margin-top: 1850px;
+    margin-left: 560px;
+    width: 384px;
+    height: 307px;
+    border-radius: 20px;
+    border: none;
+    background-color: white;        
+}
+
+.im08 {
+    margin: 20px;
+    position: absolute;
+    width: 96px;
+    height: 96px;
+}
+
+.textm8 {
+    position: absolute;
+    font-size: 24px;
+    font-family: "Mulish", sans-serif;
+    font-weight: 700;
+    line-height: 36.4px;
+    margin-top: 249px;
+    margin-left: 24px;
+    width: 226px;
+    height: 34px;
+}
+
+.container9 {
+    cursor: pointer;
+    position: absolute;
+    margin-top: 2200px;
+    margin-left: 1000px;
+    width: 384px;
+    height: 307px;
+    border-radius: 20px;
+    border: none;
+    background-color: white;        
+}
+
+.im09 {
+    margin: 20px;
+    position: absolute;
+    width: 96px;
+    height: 96px;
+}
+
+.textm9 {
+    position: absolute;
+    font-size: 24px;
+    font-family: "Mulish", sans-serif;
+    font-weight: 700;
+    line-height: 36.4px;
+    margin-top: 249px;
+    margin-left: 24px;
+    width: 319px;
+    height: 34px;
+}
+
+.nasha1 {
+    margin-top: 2690px;
+    margin-left: 120px;
+    position: absolute;
+    text-align: center;
+    width: 154px;
+    height: 29px;
+    border-radius: 50px;
+    border: none;
+    background-color: white;
+}
+
+.stile {
+    margin: 5px;
+    font-family: "Mulish",sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16.8px;
+}
+
+.text_center3 {
+    margin-top: 2730px;
+    margin-left: 120px;
+    position: absolute;
+}
+
+.center4 {
+    font-family: "Mulish", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 44px;
+}
+
+.nasha2 {
+    position: absolute;
+    margin-top: 2880px;
+    margin-left: 120px;
+    width: 384px;
+    height: 460px;
+    background-color: white;
+    border: none;
+    border-radius: 20px;
+}
+
+
+.stile1 {
+    margin: 20px;
+    font-family: "Mulish", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 23.4px;
+}
+
+.text_1 {
+    margin: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Mulish",sans-serif;
+}
+
+.im21 {
+    position: absolute;
+    margin-top: -45px;
+    margin-left: 150px;
+    position: absolute;
+    width: 228px;
+    height: 298px;
+
+}
+
+.nasha3 {
+    position: absolute;
+    margin-top: 2880px;
+    margin-left: 550px;
+    width: 812px;
+    height: 234px;
+    background-color: white;
+    border: none;
+    border-radius: 20px;
+}
+
+.stile2 {
+    margin: 20px;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: "Mulish", sans-serif;
+    line-height: 22.4px;
+}
+
+.text_2 {
+    margin: 20px;
+    font-size: 16px;
+    font-family: "Mulish",sans-serif;
+    font-weight: 400;
+    line-height: 22.4px;
+}
+
+.img22 {
+    border: none;
+    border-radius: 20px;
+    position: absolute;
+    margin-top: -150px;
+    margin-left: 505px;
+    width: 310px;
+    height: 235px;
+}
+
+.nasha4 {
+    background-color: white;
+    width: 384px;
+    height: 202px;
+    border: none;
+    border-radius: 20px;
+}
+
+.nasha5 {
+    background-color: white;
+    width: 384px;
+    height: 202px;
+    border: none;
+    border-radius: 20px;
+}
+
+.stile3, .stile4 {
+    margin: 20px;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: "Mulish",sans-serif;
+    line-height: 23.4px;
+}
+
+.text_3, .text_4 {
+    margin: 20px;
+    font-size: 16px;
+    font-family: "Mulish",sans-serif;
+    font-weight: 400;
+    line-height: 22.4px;    
+}   
+
+.flex {
+    position: absolute;
+    margin-top: 3140px;
+    display: flex;
+    gap: 50px;
+    margin-left: 550px;
+
+}
+
+.text_center4 {
+    text-align: center;
+    position: absolute;
+    margin-top: 3500px;
+    margin-left: 120px;
+    width: 120px;
+    height: 29px;
+    border: none;
+    border-radius: 50px;
+    background-color: white;
+}
+
+.stile6 {
+    margin: 5px;
+    font-size: 12px;
+    font-family: "Mulish",sans-serif;
+    font-weight: 400;
+}
+
+.nasha6 {
+    position: absolute;
+    margin-top: 3535px;
+    margin-left: 120px;
+}
+
+.center5 {
+    font-size: 40px;
+    font-family: "Mulish",sans-serif;
+    font-weight: 700;
+}
+
+.man1 {
+    position: absolute;
+    margin-top: 3600px;
+    display: flex;
+}
+
+.man_photo {
+    margin-left: 120px;
+    margin-top: 90px;
+}
+
+.man_name {
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 325px;
+    width: 384px;
+    height: 34px;
+    font-family: "Mulish",sans-serif;
+    font-size: 24px;
+    font-weight: 700px;
+    line-height: 36.4px;
+}
+
+.man_prof {
+    font-family: "Mulish",sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+    margin-top: 200px;
+    margin-left: 25px;
+    width: 384px;
+    height: 22px;
+}
+
+.mans1 {
+    position: absolute;
+    margin-left: 640px;
+}
+
+.mans2 {
+    position: absolute;
+    margin-top: 210px;
+}
+
+.man2 {
+    position: absolute;
+    margin-top: 3600px;
+    display: flex;
+}
+
+.mans3 {
+    position: absolute;
+    margin-top: 420px; 
+} 
+
+.mans4 {
+    position: absolute;
+    margin-left: 640px;
+    margin-top: 210px;
+}
+
+.mans5 {
+    position: absolute;
+    margin-left: 640px;
+    margin-top: 420px;
+}
+
+.nasha7 {
+    text-align: center;
+    background-color: white;
+    position: absolute;
+    margin-top: 4400px;
+    margin-left: 120px;
+    width: 104px;
+    height: 29px;
+    border: none;
+    border-radius: 50px;
+}
+
+.stil7 {
+    margin: 5px;
+    font-size: 12px;
+    font-family: "Mulish", sans-serif;
+    font-weight: 400;
+    line-height: 16.8px;
+}
+
+.nasha8 {
+    position: absolute;
+    margin-top: 4440px;
+    margin-left: 120px;
+}
+
+.center6 {
+    font-family: "Mulish", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 44px;
+}
+
+.end_btn1 {
+    position: absolute;
+    margin-top: -40px;
+    margin-left: 1145px;
+    width: 112px;
+    height: 40px;
+}
+
+.btn1_3 {
+    cursor: pointer;
+    margin-right: 28px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+    background-color: white;
+}
+
+.btn1_3:hover {
+    border-color: #69C647;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.btn2_4 {
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+    background-color: white;
+}
+
+.btn2_4:hover {
+    border-color: #69C647;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.card {
+    position: absolute;
+    margin-top: 4560px;
+    margin-left: 120px;
+    background-color:white;
+    width: 282px;
+    height: 340px;
+    border: none;
+    border-radius: 20px;
+}
+
+.card1 {
+    position: absolute;
+    margin-top: 4560px;
+    margin-left: 430px;
+    background-color:white;
+    width: 282px;
+    height: 340px;
+    border: none;
+    border-radius: 20px;
+}
+
+.card2 {
+    position: absolute;
+    margin-top: 4560px;
+    margin-left: 740px;
+    background-color:white;
+    width: 282px;
+    height: 340px;
+    border: none;
+    border-radius: 20px;
+}
+
+.card3 {
+    position: absolute;
+    margin-top: 4560px;
+    margin-left: 1050px;
+    background-color:white;
+    width: 282px;
+    height: 340px;
+    border: none;
+    border-radius: 20px;
+}
+
+.card4 {
+    position: absolute;
+    margin-top: 4560px;
+    margin-left: 1360px;
+    background-color:white;
+    width: 282px;
+    height: 340px;
+    border: none;
+    border-radius: 20px;
+}
+
+.nasha9 {
+    text-align: center;
+    background-color: white;
+    position: absolute;
+    margin-top: 5020px;
+    margin-left: 120px;
+    width: 115px;
+    height: 29px;
+    border: none;
+    border-radius: 50px;
+}
+
+.stil8 {
+    margin: 5px;
+    font-size: 12px;
+    font-family: "Mulish",sans-serif;
+    font-weight: 400;
+    line-height: 16.8px;
+}
+
+.nasha10 {
+    position: absolute;
+    margin-top: 5060px;
+    margin-left: 120px;
+}
+
+.stil9 {
+    font-size: 40px;
+    font-family: "Mulish",sans-serif;
+    font-weight: 700;
+    line-height: 44px;
+}
+
+.stil10 {
+    margin-top: 25px;
+    font-size: 16px;
+    font-family: "Mulish",sans-serif;
+    font-weight: 400;
+}
+
+.button_5 {
+    background-color: #69C647;
+    position: absolute;
+    margin-top: 55px;
+    width: 270px;
+    height: 56px;
+    border: none;
+    border-radius: 100px;
+    color: white;
+    cursor: pointer;
+}
+
+
+
+.img32 {
+    margin-top: -22px;
+    margin-left: 87px;
+    position: absolute;
+}
+
+.button_text {
+    font-size: 16px;
+    font-family: "Mulish",sans-serif;
+    font-weight: 400;
+    line-height: 22.4px;
+    margin-right: 35px;
+}
+
+.card01 {
+    position: absolute;
+    margin-left: 980px;
+    margin-top: -250px;
+    width: 282px;
+    height: 175px;
+    background-color: white;
+    border: none;
+    border-radius: 20px;
+}
+
+.card02 {
+    position: absolute;
+    margin-left: 660px;
+    margin-top: -250px;
+    width: 282px;
+    height: 175px;
+    background-color: white;
+    border: none;
+    border-radius: 20px;
+}
+
+.card01, .card02 {
+    display: flex;
+}
+
+.card03 {
+    position: absolute;
+    margin-top: -50px;
+    margin-left: 660px;
+    width: 600px;
+    height: 141px;
+    background-color: white;
+    border-radius: 20px;
+    border: none;
+}
+
+.card_text1 {
+    margin: 27.5px;
+    width: 234px;
+    height: 23px;
+    font-family: "Mulish",sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 23.4px;
+}
+
+.card_text2 {
+    margin: 28px;
+    margin-top: 60px;
+    width: 282px;
+    height: 175px;
+    font-family: "Mulish",sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+}
+
+.card_text1, .card_text2 {
+    position: absolute;
+}
+
+.card_text3 {
+    position: absolute;
+    margin-top: 26px;
+    margin-left: 26px;
+    font-family: "Mulish",sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 23.4px;
+}
+
+.card_text4 {
+    position: absolute;
+    margin-top: 66px;
+    margin-left: 26px;
+    font-family: "Mulish",sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+}
+
+.card_new {
+    text-align: center;
+    background-color: white;
+    position: absolute;
+    margin-top: 5600px;
+    margin-left: 120px;
+    width: 115px;
+    height: 29px;
+    border: none;
+    border-radius: 50px; 
+}
+
+.kontakt {
+    margin: 5px;
+    font-size: 12px;
+    font-family: "Mulish",sans-serif;
+    font-weight: 400;
+    line-height: 16.8px;
+}
+
+.upps {
+    position: absolute;
+    margin-top: 5640px;
+    margin-left: 120px;
+}
+
+.text_n {
+    width: 792px;
+    height: 88px;
+    font-size: 40px;
+    font-family: "Mulish",sans-serif;
+    font-weight: 700;
+    line-height: 44px;
+}
+
+.naviga {
+    gap: 80px;
+    position: absolute;
+    margin-top: 5780px;
+    margin-left: 120px;
+    display: flex;
+}
+
+.link_a {
+    color: #14171F;
+    list-style: none;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: "Mulish",sans-serif;
+    font-weight: 700;
+    line-height: 23.4px;
+}
+
+.number1 {
+    font-size: 16px;
+    font-family: "Mulish",sans-serif;
+    font-weight: 400;
+    line-height: 22.4px;
+    margin-top: 15px;
+}
+
+.count {
+    margin-top: 15px;
+    font-size: 16px;
+    font-family: "Mulish",sans-serif;
+    font-weight: 400;
+    line-height: 22.4px;
+}
+
+.icons4 {
+    position: absolute;
+    margin-top: 10px;
+}
+
+.icons9 {
+    margin-top: 10px;
+}
+
+.r, .t {
+    cursor: pointer;
+}
+
+.adress {
+    font-size: 16px;
+    font-family: "Mulish",sans-serif;
+    font-weight: 400;
+    line-height: 22.4px;
+    margin-top: 15px;
+}
+
+.date {
+    font-size: 16px;
+    font-family: "Mulish",sans-serif;
+    font-weight: 400;
+    line-height: 22.4px;
+    margin-top: 15px;
+}
+
+.karta {
+    position: absolute;
+    margin-top: 5970px;
+    margin-left: 120px;
+    border: none;
+    border-radius: 20px;
+    width: 1285px;
+    height: 420px;
+}
+
+
+
+.navigat {
+    border: none;
+    border-top-right-radius: 60px;
+    border-top-left-radius: 60px;
+    width: 1515px;
+    height: 366px;
+    background-color: black;
+    position: absolute;
+    margin-top: 6500px;
+}
+
+.lan_link {
+    margin-top: 40px;
+    margin-right: -45px;
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    display: inline-table;
+    margin-left: 120px;
+}
+
+.mi1, .mi2, .mi3, .mi4 {
+    cursor: pointer;
+    font-size: 18px;
+    font-family: "Mulish",sans-serif;
+    font-weight: 700;
+    line-height: 22.4px;
+}
+
+.textm {
+    cursor: pointer;
+    font-size: 16px;
+    font-family: "Mulish",sans-serif;
+    font-weight: 400;
+    line-height: 22.4px;
+    margin-top: 15px;
+}
+
+
+.f, .j {
+    cursor: pointer;
+}
+
+
+.kurs {
+    font-size: 18px;
+    font-family: "Mulish",sans-serif;
+    font-weight: 700;
+    line-height: 22.4px;
+    margin-top: 25px;
+}
+
+.in3, .in4 {
+    font-size: 16px;
+    font-family: "Mulish",sans-serif;
+    font-weight: 400;
+    line-height: 22.4px;
+    margin-top: 10px ;
+}
+
+
